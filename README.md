@@ -1,5 +1,10 @@
 # DocuChat — Chat with your PDF 📄
 
+<<<<<<< HEAD
+=======
+# DocuChat — Chat with your PDF 📄
+
+>>>>>>> 8a4e476 (Add updated README.md)
 DocuChat is an interactive Chatbot application that allows users to seamlessly upload and converse with their PDF documents in real-time. Built specifically with Retrieval-Augmented Generation (RAG) architecture, it leverages the speed of Groq and the embedding capabilities of Google's Generative AI. 
 
 ## Features
