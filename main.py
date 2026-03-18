@@ -1,3 +1,4 @@
+##venv\Scripts\activate
 ##streamlit run main.py
 import streamlit as st
 import tempfile
